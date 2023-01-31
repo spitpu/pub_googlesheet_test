@@ -19,4 +19,4 @@ rows = run_query(f'SELECT * FROM "{sheet_url}"')
 
 # Print results.
 for row in rows:
-    st.write(f"{row.'As of date'} has a :{row.'Number of confirmed cases'}:")
+    st.write(f"{row.As of date} has a :{row.Number of confirmed cases}:")
