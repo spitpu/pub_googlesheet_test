@@ -2,5 +2,4 @@ streamlit
 pandas
 numpy
 pyparsing
-gsheetsdb
 shillelagh
